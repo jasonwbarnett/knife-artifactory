@@ -4,7 +4,7 @@
 # this solution for now.
 
 require "chef/knife"
-require "chef/knife/cookbook_site_install"
+require "chef/knife/supermarket_install"
 
 class Chef
   class Knife
