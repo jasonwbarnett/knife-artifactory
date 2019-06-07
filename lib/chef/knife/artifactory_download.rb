@@ -4,7 +4,7 @@
 # this solution for now.
 
 require "chef/knife"
-require "chef/knife/cookbook_site_download"
+require "chef/knife/supermarket_download"
 require "knife-artifactory/utils"
 
 class Chef

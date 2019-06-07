@@ -9,7 +9,7 @@
 # return a correct response (it simply returns 200) due to performance considerations.
 
 require "chef/knife"
-require "chef/knife/cookbook_site_share"
+require "chef/knife/supermarket_share"
 
 class Chef
   class Knife
